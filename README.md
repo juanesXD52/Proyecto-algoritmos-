@@ -1,4 +1,4 @@
-"# Proyecto-algoritmos-" 
+"Proyecto algoritmos" 
 Integrantes:
 Juan
 Camila
