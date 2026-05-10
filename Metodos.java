@@ -10,8 +10,8 @@ public class Metodos {
     public static void main(String[] args) {
         saludar();
 
-        int a = 0; 
-        int b = 0;
+        int a = 0; //Esto se debe cambiar, solo agrege a y b para que no de error el codigo 
+        int b = 0; //linea 13 y 14
 
         int resultado =(a + b);
         
