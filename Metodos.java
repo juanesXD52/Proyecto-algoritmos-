@@ -9,5 +9,12 @@ public class Metodos {
     // Método principal
     public static void main(String[] args) {
         saludar();
+
+        int a = 0; 
+        int b = 0;
+
+        int resultado =(a + b);
+        
+        System.out.println("La suma de los números es: " + resultado);
     }
 }
