@@ -1,0 +1,19 @@
+Metodo suma de enteros
+a,b, resultado variables tipo enteros positivos
+Inicio prueba
+
+    Se define a<-8
+    Se define b<-6
+    Se define resultado como entero
+    resultado <- sumarEnteros(a,b)
+    Escribir "La suma es:", resultado
+Fin prueba
+
+Inicio metodo
+    Entrada : a,b
+    Si a<0 o b<0 Entonces
+        retornar -1
+    Fin si
+    Retornar a+b
+Fin metodo
+
